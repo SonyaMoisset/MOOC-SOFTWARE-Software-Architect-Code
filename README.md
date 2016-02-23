@@ -17,3 +17,6 @@ discover your software talents, so that you can empower your capabilities in any
 ### 17/02/2016
 - Enrolled in the program
 - Finished Course 1. The Da Vinci Code
+
+### 23/02/2016
+- Finished Course 2. The Digital World Code
