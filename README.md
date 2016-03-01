@@ -20,3 +20,6 @@ discover your software talents, so that you can empower your capabilities in any
 
 ### 23/02/2016
 - Finished Course 2. The Digital World Code
+
+### 01/03/2016
+- Finished Course 3. Identifying needs
