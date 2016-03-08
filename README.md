@@ -23,3 +23,6 @@ discover your software talents, so that you can empower your capabilities in any
 
 ### 01/03/2016
 - Finished Course 3. Identifying needs
+
+### 08/03/2016
+- Finished Course 4. Do not reinvent the Wheel, no need!
