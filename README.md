@@ -26,3 +26,6 @@ discover your software talents, so that you can empower your capabilities in any
 
 ### 08/03/2016
 - Finished Course 4. Do not reinvent the Wheel, no need!
+
+### 16/03/2016
+- Finished Course 5. Portray a Creator in the Age of Software
