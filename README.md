@@ -29,3 +29,6 @@ discover your software talents, so that you can empower your capabilities in any
 
 ### 16/03/2016
 - Finished Course 5. Portray a Creator in the Age of Software
+
+### 26/03/2016
+- Finished Course 6. Looking for perfection
