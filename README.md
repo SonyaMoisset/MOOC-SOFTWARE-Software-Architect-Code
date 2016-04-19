@@ -34,4 +34,5 @@ discover your software talents, so that you can empower your capabilities in any
 - Finished Course 6. Looking for perfection
 
 ### 19/04/2016
-- Fnished Course 7. From software-centric to human-centric
+- Finished Course 7. From software-centric to human-centric
+- Finished Course 8. Creativity and participatory design
