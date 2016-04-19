@@ -32,3 +32,6 @@ discover your software talents, so that you can empower your capabilities in any
 
 ### 26/03/2016
 - Finished Course 6. Looking for perfection
+
+### 19/04/2016
+- Fnished Course 7. From software-centric to human-centric
